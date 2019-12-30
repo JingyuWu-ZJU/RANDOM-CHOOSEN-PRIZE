@@ -1,0 +1,10 @@
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\bin\Debug\抽奖学程序.exe.config
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\bin\Debug\抽奖学程序.exe
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\bin\Debug\抽奖学程序.pdb
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.csprojAssemblyReference.cache
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.Form1.resources
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.Properties.Resources.resources
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.csproj.GenerateResource.cache
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.csproj.CoreCompileInputs.cache
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.exe
+C:\Users\msi-\Desktop\胜楠摇奖程序\抽奖学程序\抽奖学程序\obj\Debug\抽奖学程序.pdb
